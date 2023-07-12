@@ -47,7 +47,7 @@ function Canvas() {
       <canvas ref={canvasRef} width={16} height={34} />
       <br />
       <a href="#" onClick={downloadCanvas}>
-        Download
+        Download 
       </a>
     </div>
   );
